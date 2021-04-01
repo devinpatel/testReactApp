@@ -1,7 +1,7 @@
 <AML>
 	<Item type="Variable" typeId="6DAB4ACC09E6471DB4BDD15F36C3482B" id="080E8F3A45A54659B15CE82451A4E4D9" action="add">
 		<id keyed_name="MilHubVersion" type="Variable">080E8F3A45A54659B15CE82451A4E4D9</id>
-		<value>1.0.0.19</value>
+		<value>1.0.0.20</value>
 		<name>MilHubVersion</name>
 	</Item>
 </AML>
